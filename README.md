@@ -1,4 +1,4 @@
-#Live Demo:
+# Live DEMO
 https://calculator-app-react-bannu.vercel.app
 
 # Getting Started with Create React App
