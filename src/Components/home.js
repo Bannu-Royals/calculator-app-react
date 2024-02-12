@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <>
       <section  className="bg-[#F3EEEA] h-screen flex flex-col  justify-center items-center">
-       <section draggable="true" className='bg-[#B0A695] flex flex-col rounded-lg justify-center items-center lg:h-[85%] lg:w-[35%] w-[85%] h-[75%] md:w-[45%] text-2xl shadow-lg xl:w-[25%]'>
+       <section draggable="true" className='bg-[#B0A695] flex flex-col rounded-lg justify-center items-center lg:h-[85%] lg:w-[35%] w-[85%] h-[80%] md:w-[45%] text-2xl shadow-lg xl:w-[25%]'>
         <div>
             <p className='text-2xl lg:text-3xl text-[#342a1f]'>ᑕᗩᒪᑕᑌᒪᗩTOᖇ</p>
         </div>
