@@ -1,6 +1,10 @@
 # Live DEMO
 https://calculator-app-react-bannu.vercel.app
 
+# Preview
+![image](https://github.com/Bannu-Royals/calculator-app-react/assets/119747146/ba85b8e7-81eb-49dd-9a4e-e5258e37a7bc)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
